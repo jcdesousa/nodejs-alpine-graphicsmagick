@@ -1,5 +1,5 @@
 FROM mhart/alpine-node:6
-MAINTAINER mpneuried
+MAINTAINER jcsousa
 
 # build tools for native dependencies
 RUN apk add --update make gcc g++ python git
