@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:6
+FROM node:6.9.1-alpine
 MAINTAINER jcsousa
 
 # build tools for native dependencies
